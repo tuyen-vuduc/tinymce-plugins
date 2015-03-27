@@ -1,6 +1,6 @@
 DatePicker
 =========
-This plugin is built based upon [jQuery.DatePicker](https://jqueryui.com/datepicker/). However, *jQuery.DatePicker* doesn't exponse it's important class, *DatePicker* to customer, so I have to copy code over with small customization.
+This plugin is built based upon [jQuery.DatePicker](https://jqueryui.com/datepicker/). However, *jQuery.DatePicker* doesn't exponse it's important class, *DatePicker* to customize, so I have to copy code over with small customization.
 
 How to use
 -------------
@@ -10,8 +10,6 @@ With below setting, when user types #, the date picker will be shown
         trigger: '#',
         dateFormat: 'dd-MM-yy'
     }
-
-----------
 
 
 FileUpload
